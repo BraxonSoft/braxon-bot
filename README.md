@@ -60,8 +60,8 @@ Braxon Bot will be extended with the following plugins that Braxonsoft and its [
 Note: 
 x = Checkmarked; Blank = WIP
 
- [x] Write MORE Code
- [x] More Testing
- [ ] Create First Plugin
- [x] Keep  ReadMe.MD Updated
+- [x] Write MORE Code
+- [x] More Testing
+- [ ] Create First Plugin
+- [x] Keep  ReadMe.MD Updated
 
